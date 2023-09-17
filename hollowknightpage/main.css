@@ -1,0 +1,997 @@
+.bordatotal {
+    position: absolute;
+    border: solid #161616;
+    background-image: url("https://cdn.wallpapersafari.com/33/66/Ym0wRe.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: auto;
+    width: 97vw;
+    border-top-width: 1.50rem;
+    border-bottom-width: 1.50rem;
+}
+
+.barrinha {
+    border: solid transparent;
+    background-image: url("https://garden.spoonflower.com/c/10593470/p/f/m/-JvD0LyMun9VuxNVGF0tdqdd-DAJQs92mZexXDWBxDr8LSuv-OYRqVU/Crest%20of%20Hallownest%20on%20Black.jpg");
+    height: 6rem; 
+    opacity: 0.6;
+}
+
+.bglbarra {
+    border: solid black;
+    background-color: white;
+    height: 3rem; 
+    opacity: 2;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    margin-top: 0.5rem;
+}
+
+.menu {
+    margin-top: 0.6rem;
+    margin-left: 20rem;
+}
+
+.menu1 {
+    margin-left: 1rem;
+}
+
+.menu2 {
+    margin-left: 1rem;
+}
+
+
+
+.logo {
+    border: solid transparent;
+    height: 10rem;
+    margin-left: 18rem;
+    background-image: url("https://www.pngmart.com/files/22/Hollow-Knight-Logo-PNG-Clipart.png");
+    background-repeat: no-repeat;
+}
+
+.osslides {
+    display: flex;
+    flex-direction: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.detalhe1 {
+    background-image: url("https://garden.spoonflower.com/c/10593470/p/f/m/-JvD0LyMun9VuxNVGF0tdqdd-DAJQs92mZexXDWBxDr8LSuv-OYRqVU/Crest%20of%20Hallownest%20on%20Black.jpg");
+    height: 10rem;
+    width: 10rem;
+    height: 30.5vw;
+    opacity: 0.6;
+}
+.slider {
+    border: solid;
+    width: 60rem;
+    height: 30vw;
+    max-height: 40rem;
+    position: relative;
+}
+
+.detalhe2 {
+    background-image: url("https://garden.spoonflower.com/c/10593470/p/f/m/-JvD0LyMun9VuxNVGF0tdqdd-DAJQs92mZexXDWBxDr8LSuv-OYRqVU/Crest%20of%20Hallownest%20on%20Black.jpg");
+    height: 10rem;
+    width: 10rem;
+    height: 30.5vw;
+    opacity: 0.6;
+}
+
+.slider img{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: opacity 8s;
+}
+
+.sobrehk {
+    border: solid white;
+    border-left: transparent;
+    border-right: transparent;
+    background-color: transparent;
+    height: 3rem; 
+    opacity: 2;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    margin-top: 2rem;
+    position: relative;
+}
+
+.cabecinha {
+    height: 2.5rem;
+    margin-top: 0.2rem;
+    background-color: transparent;
+    background-image: url("https://cdn2.steamgriddb.com/file/sgdb-cdn/logo/dc8a19a19e402c8e83c7684c54d32dc1.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.sobrehollowknight {
+    opacity: 0.7;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.historiatitle {
+    text-align: center;
+    color: white;
+    opacity: 0.7;
+}
+
+.hist {
+    display: flex;
+    text-align: center;
+    color: white;
+}
+
+.histpt2 {
+    display: flex;
+    text-align: center;
+    color: white;
+}
+
+.foto1 {
+    border: solid black;
+    border-radius: 13%;
+    height: 20rem;
+    width: 34rem;
+    margin-left: 1rem;
+    background-size: contain;
+}
+
+.foto2 {
+    border: solid black;
+    border-radius: 13%;
+    height: 20rem;
+    width: 34rem;
+    margin-left: 1rem;
+    background-size: contain;
+}
+
+
+.conthist {
+    width: auto;
+    height: auto;
+    margin-left: 0.5rem;
+    margin-right: 1rem;
+    border: solid transparent;
+    align-content: center;
+    background-color: #0e0d0d;
+    opacity: 0.8;
+}
+
+.conthist2 {
+    width: auto;
+    height: auto;
+    margin-left: 0.5rem;
+    margin-right: 1rem;
+    border: solid transparent;
+    align-content: center;
+    background-color: #0e0d0d;
+    opacity: 0.8;
+}
+
+.perso {
+    border: solid white;
+    border-left: transparent;
+    border-right: transparent;
+    background-color: transparent;
+    height: 3rem; 
+    opacity: 2;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    margin-top: 2rem;
+    position: relative;
+}
+
+
+.personagens {
+    opacity: 0.7;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.imagens {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    display: flex;
+}
+
+.imagem1 {
+    border: solid #0e0d0d;
+    border-radius: 18%;
+    height: 9rem;
+    width: 9.6rem;
+    margin-left: 18.5rem;
+    background-image: url("https://images.squarespace-cdn.com/content/v1/606d159a953867291018f801/1617765348210-JRRYZWFA39VIH18YZJKU/cp_thumbs__0001_Life.jpg");
+    background-color: #0e0d0d;
+    background-size: contain;
+    visibility: visible;
+    background-repeat: no-repeat;
+}
+
+
+.img1nav {
+    height: 9rem;
+    width: 9.6rem;
+
+}
+
+
+.imagem1:hover {
+    opacity: 1;
+    transition: 0.5s;
+    background-image: url("https://images.squarespace-cdn.com/content/v1/606d159a953867291018f801/1617765260761-95ZQRWCDRLOSBXZZKW5P/cp_thumbs__0003_HD-1.jpg");
+    background-repeat: no-repeat;
+}
+
+.imagem2 {
+    border: solid #0e0d0d;
+    border-radius: 18%;
+    height: 9rem;
+    width: 9rem;
+    margin-left: 1.15rem;
+    background-image: url("https://steamuserimages-a.akamaihd.net/ugc/960859808805564252/87CD85F5FD12F756627A764E09BB47407E98DDF0/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false");
+    background-color: #0e0d0d;
+    background-size: contain;
+    visibility: visible;
+    background-repeat: no-repeat;
+}
+
+.imagem2:hover {
+    opacity: 1;
+    transition: 0.5s;
+    background-image: url("https://steamuserimages-a.akamaihd.net/ugc/847091252321328284/1EEE6F1B13CAF04FD0467AC1C8E4DA1455E1172C/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false");
+    background-repeat: no-repeat;
+}
+
+.imagem3 {
+    border: solid #0e0d0d;
+    border-radius: 18%;
+    height: 9rem;
+    width: 9rem;
+    margin-left: 1.15rem;
+    background-image: url("https://steamuserimages-a.akamaihd.net/ugc/943965392593914591/94DF4CD5139F3AAD046DDE2B4CC03E199120D0DC/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false");
+    background-color: #0e0d0d;
+    background-size: contain;
+    visibility: visible;
+    background-repeat: no-repeat;
+}
+
+.imagem3:hover {
+    opacity: 1;
+    transition: 0.5s;
+    background-image: url("https://pm1.aminoapps.com/7287/23b40786e6430d708b83aa5a669cf35f1e99e596r1-1200-1200v2_uhq.jpg");
+    background-repeat: no-repeat;
+}
+
+.imagem4 {
+    border: solid #0e0d0d;
+    border-radius: 18%;
+    height: 9rem;
+    width: 9rem;
+    margin-left: 1.15rem;
+    background-image: url("https://yt3.googleusercontent.com/3cOQ-vz6trRo6mV8FIhYcTWaq7jFy2JTXxrZUEVr80urm0nIDgJ3FFjmCApbW-SGys71i0lsgA=s900-c-k-c0x00ffffff-no-rj");
+    background-color: #0e0d0d;
+    background-size: contain;
+    visibility: visible;
+    background-repeat: no-repeat;
+}
+
+.imagem4:hover {
+    opacity: 1;
+    transition: 0.5s;
+    background-image: url("https://preview.redd.it/how-would-you-build-the-hollow-knight-pure-vessel-in-5e-v0-te93b9zv0rf81.jpg?width=500&format=pjpg&auto=webp&s=e382ae4387af939bbe6b6cc0810d76b3e10dde06");
+    background-repeat: no-repeat;
+}
+
+.titles {
+    display: flex;
+}
+
+.ghosttitle {
+    color: white;
+    margin-left: 17.5rem;
+}
+
+.hornettitle {
+    color: white;
+    margin-left: 4rem;
+}
+
+.grimmtitle {
+    color: white;
+    margin-left: 4rem;
+}
+
+
+.hktitle {
+    text-align: center;
+    color: white;
+    margin-left: 2rem;
+}
+
+.persoI {
+    position: auto;
+    border: solid #010816;
+    border-top: solid #010816; 
+    border-bottom: #021438;
+    background-color: #161616;
+    height: 20rem;
+    width: 96.5vw;
+    border-top-width: 1rem;
+    border-bottom-width: 1rem;
+    background-image: url("barraperso.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.todosperso {
+    height: 10rem;
+}
+
+.fadeA {
+    background-image: url("fadetop.jpg");
+    background-repeat: repeat;
+    height: 2.5rem;
+    width: 97vw;
+    background-size: contain;
+}
+
+.grimmtitlealpha {
+    position: relative;
+    display: flex;
+    background-image: url("https://toppng.com/uploads/preview/fancy-backgrounds-textures-11554018543tn1mv47ag4.jpg");
+    background-size: cover;
+    height: 22rem;
+    width: 97vw;
+}
+
+.grimmgay {
+    position: relative;
+    border: solid transparent;
+    height: 20rem; 
+    border-top-width: 1rem;
+    border-bottom-width: 1rem;
+    background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8d40e9ca-1974-4a87-bbfa-165264db741b/dfptxlj-ebfa85da-5a92-4129-aa1a-20bd14cd0c64.png/v1/fill/w_1280,h_1931/grimm__hollow_knight__render_by_soul151killer_dfptxlj-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTkzMSIsInBhdGgiOiJcL2ZcLzhkNDBlOWNhLTE5NzQtNGE4Ny1iYmZhLTE2NTI2NGRiNzQxYlwvZGZwdHhsai1lYmZhODVkYS01YTkyLTQxMjktYWExYS0yMGJkMTRjZDBjNjQucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.UhF1z-S_F9Z_ltQkl_1BSluviggCmdHLuRFLTRfJ1fM");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.grimmA {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: white;
+}
+
+.barradah1 {
+    border: solid white;
+    border-left: transparent;
+    border-right: transparent;
+    background-color: transparent;
+    height: 3rem; 
+    opacity: 2;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    margin-top: 2rem;
+    position: relative;
+}
+
+.cabecinha2 {
+    height: 2.5rem;
+    margin-top: 0.2rem;
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+    background-color: transparent;
+    background-image: url("https://cdn.custom-cursor.com/db/6128/hollow-knight-troupe-master-grimm-and-nightmare-king-grimm-cursor.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+
+
+.hist-2 {
+    display: flex;
+    text-align: center;
+    color: white;
+    background-image: url("https://cdn3.vectorstock.com/i/1000x1000/39/72/abstract-pattern-red-black-background-vector-30383972.jpg");
+}
+
+.histpt2-2 {
+    display: flex;
+    text-align: center;
+    color: white;
+    background-image: url("https://cdn3.vectorstock.com/i/1000x1000/39/72/abstract-pattern-red-black-background-vector-30383972.jpg");
+    background-position: 50%;
+    background-position-x: left;
+}
+
+.foto1-2 {
+    border: solid black;
+    border-radius: 13%;
+    height: 20rem;
+    width: 34rem;
+    margin-left: 1rem;
+    background-size: contain;
+}
+
+.foto2-2 {
+    border: solid black;
+    border-radius: 13%;
+    height: 20rem;
+    width: 34rem;
+    margin-left: 1rem;
+    background-size: contain;
+}
+
+
+.conthist-2 {
+    width: auto;
+    height: auto;
+    margin-left: 0.5rem;
+    margin-right: 1rem;
+    border: solid transparent;
+    align-content: center;
+    background-color: #0e0d0d;
+    opacity: 0.8;
+}
+
+.conthist2-2 {
+    width: auto;
+    height: auto;
+    margin-left: 0.5rem;
+    margin-right: 1rem;
+    border: solid transparent;
+    align-content: center;
+    background-color: #0e0d0d;
+    opacity: 0.8;
+}
+
+
+.hornettitlealpha {
+    position: relative;
+    display: flex;
+    background-image: url("https://i.pinimg.com/1200x/e7/67/06/e76706cecdc690ade9ff0f9331eb292e.jpg");
+    opacity: 0.8;
+    background-size: cover;
+    height: 22rem;
+    width: 97vw;
+}
+
+
+.hornetgay {
+    position: relative;
+    border: solid transparent;
+    height: 20rem; 
+    border-top-width: 1rem;
+    border-bottom-width: 1rem;
+    background-image: url("https://static.wikia.nocookie.net/p__/images/c/cd/Hornet_Silksong.png/revision/latest?cb=20190327150656&path-prefix=protagonist");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.hornetA {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: white;
+}
+
+.barradah1-3 {
+    border: solid white;
+    border-left: transparent;
+    border-right: transparent;
+    background-color: transparent;
+    height: 3rem; 
+    opacity: 2;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    margin-top: 2rem;
+    position: relative;
+}
+
+.cabecinha2-3 {
+    height: 2.5rem;
+    margin-top: 0.2rem;
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+    background-color: transparent;
+    background-image: url("https://static.wikia.nocookie.net/hollowknight/images/d/da/Hornet_Beast%27s_Den.png/revision/latest/scale-to-width/360?cb=20210106200859");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+
+
+.hist-3 {
+    display: flex;
+    text-align: center;
+    color: white;
+    background-image: url("https://st3.depositphotos.com/20823624/36215/i/450/depositphotos_362159680-stock-photo-petrol-texture-background-backdrop-for.jpg");
+}
+
+.histpt2-3 {
+    display: flex;
+    text-align: center;
+    color: white;
+    background-image: url("https://st3.depositphotos.com/20823624/36215/i/450/depositphotos_362159680-stock-photo-petrol-texture-background-backdrop-for.jpg");
+    background-position: 50%;
+    background-position-x: left;
+}
+
+.foto1-3 {
+    border: solid black;
+    border-radius: 13%;
+    height: 20rem;
+    width: 34rem;
+    margin-left: 1rem;
+    background-size: contain;
+}
+
+.foto2-3 {
+    border: solid black;
+    border-radius: 13%;
+    height: 20rem;
+    width: 34rem;
+    margin-left: 1rem;
+    background-size: contain;
+}
+
+
+.conthist-3 {
+    width: auto;
+    height: auto;
+    margin-left: 0.5rem;
+    margin-right: 1rem;
+    border: solid transparent;
+    align-content: center;
+    background-color: #0e0d0d;
+    opacity: 0.8;
+}
+
+.conthist2-3 {
+    width: auto;
+    height: auto;
+    margin-left: 0.5rem;
+    margin-right: 1rem;
+    border: solid transparent;
+    align-content: center;
+    background-color: #0e0d0d;
+    opacity: 0.8;
+}
+
+
+
+
+
+.hktitlealpha {
+    position: relative;
+    display: flex;
+    background-image: url("https://i.pinimg.com/originals/bb/69/d5/bb69d50727d83458e009e7e12818bade.png");
+    opacity: 0.8;
+    background-size: cover;
+    height: 22rem;
+    width: 97vw;
+}
+
+
+.hkgay {
+    position: relative;
+    border: solid transparent;
+    height: 20rem; 
+    border-top-width: 1rem;
+    border-bottom-width: 1rem;
+    background-image: url("https://static.wikia.nocookie.net/hollowknight/images/7/74/Hollow_Knight.png/revision/latest?cb=20200623001529&path-prefix=pt");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.hkA {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: white;
+}
+
+.barradah1-4 {
+    border: solid white;
+    border-left: transparent;
+    border-right: transparent;
+    background-color: transparent;
+    height: 3rem; 
+    opacity: 2;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    margin-top: 2rem;
+    position: relative;
+}
+
+.cabecinha2-4 {
+    height: 2.5rem;
+    margin-top: 0.2rem;
+    margin-left: 4rem;
+    background-color: transparent;
+    background-image: url("https://cdn2.steamgriddb.com/file/sgdb-cdn/logo/dc8a19a19e402c8e83c7684c54d32dc1.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+
+
+
+.hist-4 {
+    display: flex;
+    text-align: center;
+    color: white;
+    background-image: url("https://e0.pxfuel.com/wallpapers/55/629/desktop-wallpaper-pure-black-pure-dark.jpg");
+}
+
+.histpt2-4 {
+    display: flex;
+    text-align: center;
+    color: white;
+    background-image: url("https://e0.pxfuel.com/wallpapers/55/629/desktop-wallpaper-pure-black-pure-dark.jpg");
+    background-position: 50%;
+    background-position-x: left;
+}
+
+.foto1-4 {
+    border: solid black;
+    border-radius: 13%;
+    height: 20rem;
+    width: 34rem;
+    margin-left: 1rem;
+    background-size: contain;
+}
+
+.foto2-4 {
+    border: solid black;
+    border-radius: 13%;
+    height: 20rem;
+    width: 34rem;
+    margin-left: 1rem;
+    background-size: cover;
+}
+
+
+.conthist-4 {
+    width: auto;
+    height: auto;
+    margin-left: 0.5rem;
+    margin-right: 1rem;
+    border: solid transparent;
+    align-content: center;
+    background-color: #0e0d0d;
+    opacity: 0.8;
+}
+
+.conthist2-4 {
+    width: auto;
+    height: auto;
+    margin-left: 0.5rem;
+    margin-right: 1rem;
+    border: solid transparent;
+    align-content: center;
+    background-color: #0e0d0d;
+    opacity: 0.8;
+}
+
+
+
+.ghosttitlealpha {
+    position: relative;
+    display: flex;
+    background-image: url("https://img.wattpad.com/11d22621ee725c603efade1c86c9ee5f0697301f/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f4c6669586e353365474e59314e413d3d2d3831373837313636392e313565323232373531633231323362643132343430363236343932342e6a7067");
+    opacity: 0.8;
+    background-size: cover;
+    height: 22rem;
+    width: 97vw;
+}
+
+
+.ghostgay {
+    position: relative;
+    border: solid transparent;
+    height: 20rem; 
+    border-top-width: 1rem;
+    border-bottom-width: 1rem;
+    background-image: url("https://www.pngmart.com/files/22/Hollow-Knight-PNG-Isolated-Picture.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.ghostA {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: white;
+}
+
+.barradah1-5 {
+    border: solid white;
+    border-left: transparent;
+    border-right: transparent;
+    background-color: transparent;
+    height: 3rem; 
+    opacity: 2;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    margin-top: 2rem;
+    position: relative;
+}
+
+.cabecinha2-5 {
+    height: 2.5rem;
+    margin-top: 0.2rem;
+    margin-left: 2.3rem;
+    background-color: transparent;
+    background-image: url("https://media4.giphy.com/media/Y8bAdBxtKREVcuDNyH/200w.gif?cid=82a1493b5zvae5pd3n2hn4np9i2c0pzgjctrox2wkkvspt5s&ep=v1_gifs_related&rid=200w.gif&ct=s");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+
+
+
+.hist-5 {
+    display: flex;
+    text-align: center;
+    color: white;
+    background-image: url("https://images.unsplash.com/photo-1581084243124-209fc8f93cf6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8ZGFyayUyMGJsdWUlMjB0ZXh0dXJlfGVufDB8fDB8fHww&w=1000&q=80");
+}
+
+.histpt2-5 {
+    display: flex;
+    text-align: center;
+    color: white;
+    background-image: url("https://images.unsplash.com/photo-1581084243124-209fc8f93cf6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8ZGFyayUyMGJsdWUlMjB0ZXh0dXJlfGVufDB8fDB8fHww&w=1000&q=80");
+    background-position: 50%;
+    background-position-x: left;
+}
+
+.foto1-5 {
+    border: solid black;
+    border-radius: 13%;
+    height: 20rem;
+    width: 34rem;
+    margin-left: 1rem;
+    background-size: contain;
+}
+
+.foto2-5 {
+    border: solid black;
+    border-radius: 13%;
+    height: 20rem;
+    width: 34rem;
+    margin-left: 1rem;
+    background-size: cover;
+}
+
+
+.conthist-5 {
+    width: auto;
+    height: auto;
+    margin-left: 0.5rem;
+    margin-right: 1rem;
+    border: solid transparent;
+    align-content: center;
+    background-color: #0e0d0d;
+    opacity: 0.8;
+}
+
+.conthist2-5 {
+    width: auto;
+    height: auto;
+    margin-left: 0.5rem;
+    margin-right: 1rem;
+    border: solid transparent;
+    align-content: center;
+    background-color: #0e0d0d;
+    opacity: 0.8;
+}
+
+.galeriatitle {
+    border: solid white;
+    border-left: transparent;
+    border-right: transparent;
+    background-color: transparent;
+    height: 3rem; 
+    opacity: 2;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    margin-top: 2rem;
+    position: relative;
+}
+
+.aGaleriatitle {
+    opacity: 0.7;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+
+.galeria {
+    border: solid #161616;
+    background-image: url("https://images.squarespace-cdn.com/content/v1/606d159a953867291018f801/1619987722169-VV6ZASHHZNRBJW9X0PLK/Key_Art_02_layeredjpg.jpg?format=1500w");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: auto;
+    width: 96.5vw;
+    border-top-width: 1.50rem;
+    border-bottom-width: 1.50rem;
+}
+
+
+.Gfotos {
+    margin-top: 10rem;
+    margin-left: 15rem;
+    margin-bottom: 10rem;
+}
+
+
+.gft1 {
+    display: inline;
+}
+
+.gft1D {
+    color: white;
+    background-color: #161616;
+    opacity: 0.8;
+    text-align: left;
+    border: solid transparent;
+}
+
+.gft2D {
+    color: white;
+    background-color: #161616;
+    opacity: 0.8;
+    text-align: left;
+    border: solid transparent;
+    margin-left: 1.2rem;
+}
+
+
+.gft3D {
+    color: white;
+    background-color: #161616;
+    opacity: 0.8;
+    text-align: left;
+    border: solid transparent;
+    margin-left: 0.9rem;
+}
+
+.gft4D {
+    color: white;
+    background-color: #161616;
+    opacity: 0.8;
+    text-align: left;
+    border: solid transparent;
+    margin-left: 0.5rem;
+}
+
+
+
+
+
+
+.gftD2 {
+    display: flex;
+}
+
+.gft2 {
+    display: inline;
+}
+
+.gft5D {
+    color: white;
+    background-color: #161616;
+    opacity: 0.8;
+    text-align: left;
+    border: solid transparent;
+}
+
+.gft6D {
+    color: white;
+    background-color: #161616;
+    opacity: 0.8;
+    text-align: left;
+    border: solid transparent;
+    margin-left: 0.5rem;
+}
+
+
+.gft7D {
+    color: white;
+    background-color: #161616;
+    opacity: 0.8;
+    text-align: left;
+    border: solid transparent;
+    margin-left: 0.5rem;
+}
+
+.gft8D {
+    color: white;
+    background-color: #161616;
+    opacity: 0.8;
+    text-align: left;
+    border: solid transparent;
+    margin-left: 0.8rem;
+}
+
+.gftD {
+    display: flex;
+}
+
+
+
+
+
+
+.quizB {
+    background-image: url("https://garden.spoonflower.com/c/10593470/p/f/m/-JvD0LyMun9VuxNVGF0tdqdd-DAJQs92mZexXDWBxDr8LSuv-OYRqVU/Crest%20of%20Hallownest%20on%20Black.jpg");
+    opacity: 0.6;
+
+}
+
+.quiz {
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+    margin-left: 18rem;
+    max-width: 600px;
+    padding: 2rem;
+    background-color: rgb(17, 17, 17);
+    border-radius: 10px;
+}
+
+.pergunta {
+    visibility: visible;
+    color: white;
+    text-align: center;
+}
+
+.alternativas {
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+}
+
+.alternativas button {
+    margin: 5px 0;
+    padding: 8px;
+    border: none;
+    border-radius: 5px;
+    background-color: #202020;
+    color: white;
+    cursor: pointer;
+}
+
+.contador1 {
+    text-align: center;
+    color: white;
+    display: block;
+    margin-top: 1rem;
+}
+
+.modal-finish {
+    display: none;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.modal-finish h2 {
+    color: rgb(22, 22, 22);
+}
+
+.modal-finish .contador {
+    margin-top: 10px;
+}
